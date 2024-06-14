@@ -1,0 +1,47 @@
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+# Prompts,112,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,IT,EN,ES,,,,,,,,,,,,,,,,,,,
+GPT 3.5,27,11,18,,,,,,,,,,,,,,,,,,,
+GPT 4,27,11,18,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,PERCENTAGE,,,,,,,,,,
+TOTAL,,,,,,,,,,,,TOTAL,,,,,,,,,,
+Julia,,,,Yes/No,,,,Mountains,,,,Julia,,,,Yes/No,,,,Mountains,,
+,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4
+house,0,0,,Yes ,44,1,,A,0,0,,house,"0,00%","0,00%",,Yes,"78,60%","1,80%",,A,"0,00%","0,00%"
+house+moto,52,17,,No,12,55,,B,55,56,,house+moto,"92,90%","30,40%",,No,"21,40%","98,20%",,B,"98,20%","100,00%"
+house+bike,0,39,,,,,,same,0,0,,house+bike,"0,00%","69,60%",,,,,,C,"0,00%","0,00%"
+don't know,4,0,,,,,,N/A,1,0,,don't know,"7,10%","0,00%",,,,,,N/A,"1,80%","0,00%"
+tot,56,56,,,56,56,,,56,56,,,non-hl,non-hl,,,hl,non hl,,,non-hl,non-hl
+,non-hl,non-hl,,,hl,non hl,,,non-hl,non-hl,,,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect
+,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect,,PERCENTAGE,,,,,,,,,,
+ITALIAN,,,,,,,,,,,,ITALIAN,,,,,,,,,,
+Julia,,,,Yes/No,,,,Mountains,,,,Julia,,,,Yes/No,,,,Mountains,,
+,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4
+house,0,0,,Yes ,26,0,,A,0,0,,house,0,0,,Yes,"96,3",0,,A,0,0
+house+moto,23,10,,No,1,27,,B,27,27,,house+moto,"85,2",37,,No,"3,7",100,,B,100,100
+house+bike,0,17,,,,,,same,0,0,,house+bike,0,63,,,,,,same,0,0
+don't know,4,0,,,,,,,,,,don't know,"14,8",0,,,,,,,,
+,non-hl,non-hl,,,hl,non-hl,,,non-hl,non-hl,,,hl,non-hl,,,hl,non-hl,,,non-hl,non-hl
+,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect,,,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect
+,,,,,,,,,,,,PERCETAGE,,,,,,,,,,
+ENGLISH,,,,,,,,,,,,ENGLISH,,,,,,,,,,
+Julia,,,,Yes/No,,,,Mountains,,,,Julia,,,,yes/no ,,,,Mountains,,
+,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4
+house,0,0,,Yes ,11,1,,A,0,0,,house,0,0,,Yes,100,"9,1",,A,0,0
+house+moto,11,7,,No,0,10,,B,11,11,,house+moto,100,"63,6",,No,0,"90,9",,B,100,100
+house+bike,0,4,,,,,,same,0,0,,house+bike,0,"36,4",,,,,,same,0,0
+don't know,0,0,,,,,,,,,,don't know,0,0,,,,,,,,
+,non-hl,non-hl,,,non-hl,hl,,,non-hl,non-hl,,,non-hl,non-hl,,,non-hl,hl,,,non-hl,non-hl
+,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect,,,incorrect,incorrect,,,incorrect,correct,,,incorrect,incorrect
+,,,,,,,,,,,,PERCENT,,,,,,,,,,
+SPANISH,,,,,,,,,,,,SPANISH,,,,,,,,,,
+Julia,,,,Yes/No,,,,Mountains,,,,Julia,,,,Yes/No,,,,Mountains,,
+,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4,,,GPT 3.5,GPT 4
+house,0,0,,Yes ,7,0,,A,0,0,,house,0,0,,Yes,"38,9",0,,A,0,0
+house+moto,18,0,,No,11,18,,B,17,18,,house+moto,100,0,,No,"61,1",100,,B,"94,4",100
+house+bike,0,18,,,,,,same,0,0,,house+bike,0,100,,,,,,same,0,0
+don't know,0,0,,,,,,N/A,1,0,,don't know,0,0,,,,,,N/A,"5,6",0
+,non-hl,non-hl,,,non-hl,non-hl,,,non-hl,non-hl,,,non-hl,non-hl,,,non-hl,non-hl,,,non-hl,non-hl
+,incorrect,incorrect,,,correct,correct,,,incorrect,incorrect,,,incorrect,incorrect,,,correct,correct,,,incorrect,incorrect

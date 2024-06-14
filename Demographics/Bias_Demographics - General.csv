@@ -1,0 +1,40 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Participants,56,,,Profession Groups,,,,,,,,,,,,,,,,,,,,,,,,,
+Females,33,,,student ,9,,,,,,,,,,,,,,,,,,,,,,,,
+Males,23,,,education ,8,,,,,,,,,,,,,,,,,,,,,,,,
+Age (AV) ,"33,07142857",,,culture,5,,,,,,,,,,,,,,,,,,,,,,,,
+Age (SD),"11,56932801",,,sciences,6,,,,,,,,,,,,,,,,,,,,,,,,
+Age group 18-25,13,,,environment,8,,,,,,,,,,,,,,,,,,,,,,,,
+Age group 26-30,19,,,languages,7,,,,,,,,,,,,,,,,,,,,,,,,
+Age group 31+,24,,,administration,11,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,unemployed,2,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,PERCENTAGE,,,,,,,,,,,,,,,,,
+GENERAL,,,,,,,,,,,,GENERAL,,,,,,,,,,,,,,,,,
+Julia,,,,Yes/No,,,,Mountains,,,,Julia,human,,,Yes/No,human,,,Mountains,human,,,,,,,,
+house,5,f:2 m:3,,Yes ,33,f:19 m14,,A,6,f:4 m:2,,house,"8,90%",f:2 m:3,,Yes,"58,90%",f:19 m14,,A,"10,70%",f:4 m:2,,,,,,,
+house+moto,18,f:12 m:6,,No,23,f:14 m:9,,B,13,f:6 m:7,,house+moto,"32,10%",f:12 m:6,,No,"41,10%",f:14 m:9,,B,"23,20%",f:6 m:7,,,,,,,
+house+bike,6,f:3 m:3,,,,,,same,37,f:23 m:14,,house+bike,"10,70%",f:3 m:3,,,,,,C,"66,10%",f:23 m:14,,,,,,,
+don't know,27,f:16 m:11,,,,,,,,,,don't know,"48,20%",f:16 m:11,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITALIAN,,,,,,,,,,,,,,,,,,,,PERCENTAGE,,,,,,,,,
+Sex,,,,Age,,,,Answers_Julia,,,,Answers_Yes/No,,,,Answers_Mountains,,,,Answers_Julia,,,,Answers_Yes/No,,,,Answers_Mountains,
+Female,15,,,18-25,7,,,house,2,,,Yes,14,,,A ,3,,,house,"7,4",,,Yes,"51,9",,,A ,"11,1"
+Male,12,,,26-30,9,,,house+moto,11,,,No,13,,,B,6,,,house+moto,"40,7",,,No,"48,1",,,B,"22,2"
+,,,,31+,11,,,house+bike,3,,,,,,,Same,18,,,house+bike,"11,1",,,,,,,Same,"66,7"
+,,,,,,,,don't know,11,,,,,,,,,,,don't know,"40,7",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ENGLISH,,,,,,,,,,,,,,,,,,,,PERCENTAGE,,,,,,,,,
+Sex,,,,Age,,,,Answers,,,,Answers_Yes/No,,,,Answers_Mountains,,,,Answers,,,,Answers_Yes/No,,,,Answers_Mountains,
+Female,7,,,18-25,4,,,house,2,,,Yes,4,,,A ,0,,,house,"18,2",,,Yes,"36,4",,,A ,0
+Male,4,,,26-30,4,,,house+moto,0,,,No,7,,,B,4,,,house+moto,0,,,No,"63,6",,,B,"36,4"
+,,,,31+,3,,,house+bike,2,,,,,,,Same,7,,,house+bike,"18,2",,,,,,,Same,"63,6"
+,,,,,,,,don't know,7,,,,,,,,,,,don't know,"63,6",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPANISH,,,,,,,,,,,,,,,,,,,,PERCENTAGE,,,,,,,,,
+Sex,,,,Age,,,,Answers,,,,Answers_Yes/No,,,,Answers_Mountains,,,,Answers,,,,Answers_Yes/No,,,,Answers_Mountains,
+Female,11,,,18-25,2,,,house,1,,,Yes,15,,,A ,3,,,house,"5,6",,,Yes,"83,3",,,A ,"16,7"
+Male,7,,,26-30,6,,,house+moto,7,,,No,3,,,B,3,,,house+moto,"38,9",,,No,"16,7",,,B,"16,7"
+,,,,31+,10,,,house+bike,1,,,,,,,Same,12,,,house+bike,"5,6",,,,,,,Same,"66,7"
+,,,,,,,,don't know,9,,,,,,,,,,,don't know,50,,,,,,,,

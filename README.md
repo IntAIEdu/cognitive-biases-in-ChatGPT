@@ -1,1 +1,4 @@
-# cognitive-biases-in-ChatGPT
+# Examining cognitive biases in ChatGPT 3.5 and ChatGPT 4 through human evaluation and linguistic comparison
+
+In this repository you can find the report analysis and all the results achieved in the paper "Examining cognitive biases in ChatGPT 3.5 and  4 through human evaluation and linguistic comparison”. The results are divided in “Demographics” for the evaluators data and “GPT results and comparison” for the ChatGPT 3.5 and 4 data, with prompts and answers. In both repositories you can find a “General” file that reports all data and calculations. “Demographics” are subdivided for each task, namely Julia=Representativeness heuristics, Yes_No=Availability heuristics, Mountains=Framing. The GPT results are instead divided by the tool. In each tool file you can find a pdf reporting all the prompts and the 56 outputs given by each LLM. 
+A final document called “Corpora” contains the name, link and data of the corpora examined to determine the Representativeness heuristics correct answers.
